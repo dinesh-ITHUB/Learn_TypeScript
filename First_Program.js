@@ -1,0 +1,14 @@
+var message = 'name';
+console.log(message);
+console.log('Dinesh'.length);
+var counter;
+counter = 13;
+console.log(counter);
+var names = ['dinesh', 'nerthee', 'joshvik', '34', '31', '3'];
+var person;
+person = { name: 'dinesh', age: 34 };
+console.log(names);
+console.log(person);
+var greeting;
+greeting = function (name) { return 'Hi ${name}'; };
+console.log(greeting);
